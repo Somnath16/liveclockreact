@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/liveclockreact/static/css/main.ecb89492.css",
+    "main.js": "/liveclockreact/static/js/main.bea28c6d.js",
+    "index.html": "/liveclockreact/index.html",
+    "main.ecb89492.css.map": "/liveclockreact/static/css/main.ecb89492.css.map",
+    "main.bea28c6d.js.map": "/liveclockreact/static/js/main.bea28c6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecb89492.css",
+    "static/js/main.bea28c6d.js"
+  ]
+}
