@@ -1,0 +1,22 @@
+button{
+    padding: 12px 20px;
+    background: #096c74;
+    color:antiquewhite;
+    border: 2px solid #ececec;
+    outline: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+    justify-items: center;
+    
+  }
+  h1{
+    font-size: 120px;
+    justify-content: center;
+  }
+  
+  div{
+    padding-top: 65px;
+    padding-left: 210px;
+    justify-content: center;
+  }
